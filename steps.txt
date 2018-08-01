@@ -1,0 +1,20 @@
+
+
+
+#Base de datos
+1) BD_ACME.sql
+2) Stored_Procedures_Acme.sql
+3) Triggers_Audit_Acme.sql
+4) Triggers_Audit_Acme2.sql
+5) SP_GetAuditHistory.sql
+
+#Data Warehouse
+1) Create_DWAcme_Schema.sql
+2) SPReport01.sql
+3) SPReport01Graphic.sql
+4) SPReport02.sql
+5) SPReport02Graphic.sql
+6) SP_ReportEmployeeEvent.sql
+7) SP_ReportEventualityGraphic.sql
+8) SP_ReportTypeEventualityForEmployee.sql
+9) Script_Funtion_StoredProcedure_For_DW.sql
